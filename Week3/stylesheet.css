@@ -1,0 +1,29 @@
+body {
+
+background-image: url("baklava.jpg");
+background-size: 2000px;
+background-repeat: no-repeat;
+
+}
+
+.topnav {
+
+    background-color: green;
+    overflow: hidden;
+
+
+
+}
+
+p {
+color:white;
+border-style: dotted;
+
+}
+
+footer {
+background-color: green;
+    text-align: center;
+
+    
+}
